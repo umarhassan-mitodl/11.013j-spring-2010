@@ -1,0 +1,52 @@
+{
+  "term": "Spring",
+  "year": "2010",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Social Science",
+      "Urban Studies"
+    ],
+    [
+      "Humanities",
+      "History",
+      "American History"
+    ],
+    [
+      "Social Science",
+      "Public Administration"
+    ]
+  ],
+  "legacy_uid": "2a778689-ebf4-265e-fab3-f6cfe9d5e54c",
+  "instructors": {
+    "content": [
+      "4b92f9a6-c29f-a3a7-7718-5f6a5a9b28d5"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "b61539b7-1a08-c8ce-b389-47b60378b5e7",
+    "website": "11-013j-american-urban-history-i-spring-2010"
+  },
+  "course_title": "American Urban History I",
+  "course_description": "This course is a seminar on the history of institutions and institutional change in American cities from roughly 1850 to the present. Among the institutions to be looked at are political machines, police departments, courts, schools, prisons, public authorities, and universities. The focus of the course is on readings and discussions.\n",
+  "department_numbers": [
+    "11",
+    "21H"
+  ],
+  "extra_course_numbers": "21H.231J",
+  "primary_course_number": "11.013J",
+  "course_image_thumbnail": {
+    "content": "835e0035-0e72-3c5b-bc48-471f5f7d66cf",
+    "website": "11-013j-american-urban-history-i-spring-2010"
+  },
+  "learning_resource_types": [
+    "Projects with Examples"
+  ],
+  "site_uid": "b8e76f34-33da-460b-bdeb-e442dd92c14e",
+  "site_short_id": "11.013j-spring-2010",
+  "site_url_path": "courses/11-013j-american-urban-history-i-spring-2010",
+  "title": "Course Metadata"
+}
