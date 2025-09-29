@@ -6,6 +6,8 @@ description: Syllabus from the Spring 2010 version of the course, provided to il
 file: /courses/11-013j-american-urban-history-i-spring-2010/4f1340f8222fae8fdd226ab46707990d_MIT21H_231JS05_syllS10.pdf
 file_size: 80064
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

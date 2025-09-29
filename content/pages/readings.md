@@ -1,6 +1,8 @@
 ---
 content_type: page
 description: This section provides the readings assigned for each week of the course.
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -48,7 +50,7 @@ Political Machines
 
 Testimony of Richard Croker to the Mazet Committee (1900).
 
-Riordan, William L. {{% resource_link "27a40a03-c12f-4fcf-aeee-902adc776669" "_Plunkitt of Tammany Hall_" %}}. New York, NY: Dutton, 1963.
+Riordan, William L. [_Plunkitt of Tammany Hall_](http://www.marxists.org/reference/archive/plunkett-george/tammany-hall/index.htm). New York, NY: Dutton, 1963.
 
 Hays, Samuel P. "The Politics of Reform in Municipal Government in the Progressive Era." _Pacific Northwest Quarterly_ (October 1964): 157-168.
 
@@ -110,7 +112,7 @@ Gault, In re. "President's Commission on Law Enforcement and Administration of J
 
 New York State Supreme Court, Appellate Division. _In the Matter of the Investigation of the Magistrates' Courts_. New York, NY: Lawyers Press, Inc., 1932, pp. 13-56.
 
-Levin, Martin A. "{{% resource_link "80473dcd-7825-4a21-91e7-2a3507c305ac" "Urban Politics and Judicial Behavior" %}}." _Journal of Legal Studies_ (January 1972): 193-221.
+Levin, Martin A. "[Urban Politics and Judicial Behavior](http://www.journals.uchicago.edu/doi/abs/10.1086/467482)." _Journal of Legal Studies_ (January 1972): 193-221.
 
 Smith, Reginald Heber. "Small Claims Procedure is Succeeding." _Journal of the America Judicature Society_ 8: 247-257.
 
